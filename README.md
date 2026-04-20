@@ -89,7 +89,11 @@ Overall, the analysis revealed a business model strongly driven by seasonal dema
 
 ###  Product Analysis
 
-<img width="474" height="336" alt="Screenshot 2026-04-20 234106" src="https://github.com/user-attachments/assets/dbd8e83c-4b61-488e-9c45-0e78bbf8bab5" />
+<img width="488" height="342" alt="Screenshot 2026-04-21 001136" src="https://github.com/user-attachments/assets/fd3f1912-1c9d-45a4-8d2c-4de2b7a21288" />
+
+
+<img width="483" height="321" alt="Screenshot 2026-04-20 234843" src="https://github.com/user-attachments/assets/ce6cee03-300d-4175-a2f6-28c4551fd464" />
+
 
 
 - The product catalog consist of 8 products
@@ -116,6 +120,8 @@ This confirms that the Q1 2021 downturn was primarily driven by declining demand
 
 ##  Marketing Channel Performance
 
+<img width="467" height="338" alt="Screenshot 2026-04-20 234153" src="https://github.com/user-attachments/assets/a6d87d16-ff66-4301-b9d8-a1d9d5647d33" />
+
 - The Direct channel emerged as the strongest marketing channel across the full 2019–2021 analysis period, contributing the largest share of both revenue(84%) and transaction volume(80%). This indicates that EmTech’s growth was overwhelmingly driven by direct customer acquisition and repeat intent-based purchasing behavior.
 
 - Revenue within the Direct channel was highly concentrated among three hero products Nintendo Switch, 27-inch 4K Gaming Monitor, and Sony PlayStation 5 Bundle. These products generated 80% of Direct-channel revenue, confirming that both channel success and product success are tightly interconnected. 
@@ -129,6 +135,8 @@ This confirms that the Q1 2021 downturn was primarily driven by declining demand
 - Indicates strong reliance on a single acquisition channel.
 
 ##  Regional Performance
+
+<img width="494" height="334" alt="Screenshot 2026-04-21 001812" src="https://github.com/user-attachments/assets/a1dc923a-b652-42a1-b61e-99ef59c9caa5" />
 
 - North America (NA) and EMEA emerged as the dominant regions across all core sales metrics, consistently leading in: Revenue, Order volume, AOV performance influence.
 
