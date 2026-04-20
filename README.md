@@ -53,6 +53,9 @@ Regional Insights: Evaluating regional demands and product performance within re
 
 ## Executive Summary
 
+<img width="956" height="309" alt="Screenshot 2026-04-20 233900" src="https://github.com/user-attachments/assets/c397f7da-c5e4-4bf2-b994-e885b39f07f4" />
+
+
 #### 
 This project analyzed three years of EmTech sales data (2019–2021) using SQL for data querying and KPI analysis and Excel for dashboarding and visualization, with the objective of evaluating sales performance, product lines performance, marketing channel efficiency, and regional market dynamics.
 
@@ -85,6 +88,9 @@ Overall, the analysis revealed a business model strongly driven by seasonal dema
 - A sharp post-peak decline began in January 2021, immediately following the December surge. Revenue fell by 47% ($289.3K) and order volume declined by 40.5% (995 orders). The downward trend continued through March, followed by a temporary rebound in April, and renewed declines from May to June. A second recovery phase began from July through December, although October revenue dipped by 21% and orders fell by 26%. This decline suggests weak consumer demand,customer retention, missing records, pricing or product market fit issues. EmTech may need to re-strategize through marketing, promotions, or change in pricing.
 
 ###  Product Analysis
+
+<img width="474" height="336" alt="Screenshot 2026-04-20 234106" src="https://github.com/user-attachments/assets/dbd8e83c-4b61-488e-9c45-0e78bbf8bab5" />
+
 
 - The product catalog consist of 8 products
   
