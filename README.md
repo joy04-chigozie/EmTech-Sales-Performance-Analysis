@@ -72,6 +72,7 @@ Overall, the analysis revealed a business model strongly driven by seasonal dema
 
 ##  Dashboard
 
+<img width="599" height="595" alt="Screenshot 2026-04-23 163719" src="https://github.com/user-attachments/assets/ab274365-b3f3-4c7d-a6f0-b40aef12a8bf" />
 
 ## Key Insights
 
